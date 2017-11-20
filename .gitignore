@@ -1,0 +1,10 @@
+.dep/
+build/
+*.idea
+*.STL
+*.swp
+*.swo
+*.swn
+*.swm
+*.DS_Store
+*.ipynb_checkpoints
